@@ -390,14 +390,14 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: 0.5s;
   border: 2px solid #fff;
-  background-color: black;
+  background-color: #ff6666;
   color: #fff;
   margin-top: 40px;
 }
 
 #hero .btn-get-started:hover {
   border-color: #1bac91;
-  background: #ff6666;
+  background: black;
 }
 
 @media (min-width: 1024px) {
